@@ -1,0 +1,7 @@
+#Thu Apr 18 18:10:06 CEST 2019
+base.0=C\:\\Users\\gap-thomas\\Documents\\Computer Science\\semestre 6\\Projet de licence\\TEAM-PLFI\\android\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\gap-thomas\\Documents\\Computer Science\\semestre 6\\Projet de licence\\TEAM-PLFI\\android\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\1

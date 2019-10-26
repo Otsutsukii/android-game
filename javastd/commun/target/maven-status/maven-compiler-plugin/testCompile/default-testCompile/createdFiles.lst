@@ -1,0 +1,9 @@
+commun\FormeMatcherTriangleTest.class
+commun\stats\StatsTest.class
+commun\FormeMatcherCercleTest.class
+commun\FormeMatcherCarreTest.class
+commun\FormeMatcherSegmentTest.class
+commun\jeux\GameCTRTest.class
+commun\FormeMatcherUnknownTest.class
+commun\jeux\GameEnigmeTest.class
+commun\jeux\GameReflexTest.class

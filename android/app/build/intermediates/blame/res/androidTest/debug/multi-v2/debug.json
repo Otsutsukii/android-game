@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\gap-thomas\\Documents\\Computer Science\\semestre 6\\Projet de licence\\TEAM-PLFI\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\gap-thomas\\.gradle\\caches\\transforms-2\\files-2.1\\980b7d4d012a4b510c822cd7d17d4953\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7,10",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "176,327,474",
+                        "endLines": "6,9,12",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "326,473,622"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,210,361",
+                        "endLines": "4,7,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "205,356,509"
+                    }
+                }
+            ]
+        }
+    ]
+}

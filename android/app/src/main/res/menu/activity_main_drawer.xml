@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:id="@+id/main_drawer">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bouton1_main_menu"
+            android:icon="@drawable/rtc_menu"
+            android:title="@string/game_rtc" />
+        <item
+            android:id="@+id/bouton2_main_menu"
+            android:icon="@drawable/enigme_menu"
+            android:title="@string/game_enigme" />
+        <item
+            android:id="@+id/bouton3_main_menu"
+            android:icon="@drawable/reflex_menu"
+            android:title="@string/game_reflex" />
+        <item
+            android:id="@+id/bouton4_main_menu"
+            android:icon="@drawable/soon_menu"
+            android:title="@string/new_game_soon" />
+    </group>
+
+</menu>
